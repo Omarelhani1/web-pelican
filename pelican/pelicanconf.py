@@ -3,7 +3,7 @@
 
 AUTHOR = 'omar elhani'
 SITENAME = 'update'
-SITEURL = ''
+SITEURL = 'https://web-pelican.vercel.app/'
 
 PATH = 'content'
 
