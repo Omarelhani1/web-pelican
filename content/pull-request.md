@@ -8,7 +8,7 @@ Summary: Esto es solo el principio
 
 **Pimer paso: Realizar un Fork**
 
-Hacemos click en fork en la parte superior derecha y automáticamente creará en una instancia completa en nuestra cuenta
+Hacemos click en fork en la parte superior derecha y automáticamente creará en una instancia completa en prueba 
 
 ![fork](/images/fork.png/){widght='200px'}
 
