@@ -9,3 +9,5 @@ Summary: Esto es solo el principio
 En este blog publicaré mis tareas del grado ASIR para que otra gente se pueda beneficiar de manuales de instalación y configuración de determinados servicios.
  
 ![informatico](/images/informatico.png){width='400px'}
+
+En este blog ha sido realizado un Pull Request por Antonio Castro :).
