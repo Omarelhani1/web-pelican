@@ -6,6 +6,9 @@ Slug: compilacion-programa-en-c
 Author: Omar Elhani
 Summary: Esto es solo el principio
 
+**Modificación por Daniel Pérez**
+
+
 En esta práctica he escogido el paquete Samba.
 
 **Primer Paso: Crear un directorio en la ruta /opt**
